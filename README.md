@@ -5,4 +5,10 @@ The Lamp was sold in LIDL Finland 2017 February. It has IR remote control with 1
 
 All the further logic and GUI is behind MySenors MQTT GW, and handled and visualized in OpenHab and Node-Red.
 
+The program uses these libraries:
+ * [IRLib2] (https://github.com/cyborg5/IRLib2)
+ * [MySensors] (https://github.com/mysensors/MySensors)
 
+
+Author: Ilkka Tengvall
+LICENCE: GPLv3
